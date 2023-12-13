@@ -1,0 +1,4 @@
+cryptography
+hashlib
+socket
+json
